@@ -31,7 +31,7 @@ To find longest common subsequence using Dynamic Programming.
 ### Developed by: ArunKumar.T
 ### Register Number: 212222040017
 
-```
+```py
 def longest_common_subsequence(X, Y):
     m = len(X)
     n = len(Y)
